@@ -1,12 +1,12 @@
-function main(){
-    //Only change code below this line
-     var someAdjective = "the best!"; 
-     var myString = "Mistral is ";
-     myString+=someAdjective;
-    //only change code abow this line
+function main() {
+  //Only change code below this line
+  var someAdjective = "the best!";
+  var myString = "Mistral is ";
+  myString += someAdjective;
+  //Only change code abow this line
 
-    return myString;
+  return myString;
 }
 
-console.log(main()); 
+console.log(main());
 module.exports = main;

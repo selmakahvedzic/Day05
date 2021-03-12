@@ -1,10 +1,10 @@
-function main(){
-    //Only change code below this line
-     var myString = "FirstLine\n\tSecondLine\nThirdLine";
-    //only change code abow this line
+function main() {
+  //Only change code below this line
+  var myString = "FirstLine\n\tSecondLine\nThirdLine";
+  //Only change code abow this line
 
-    return myString;
+  return myString;
 }
 
-console.log(main()); 
+console.log(main());
 module.exports = main;

@@ -3,7 +3,7 @@ function main() {
   var lastName = "Doe";
   var firstLetterOfLastName = " ";
   firstLetterOfLastName = lastName[0];
-  //only change code abow this line
+  //Only change code abow this line
 
   return firstLetterOfLastName;
 }

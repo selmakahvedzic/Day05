@@ -3,7 +3,7 @@ function main() {
   var lastName = "Doe";
   var lastNameLength;
   lastNameLength = lastName.length;
-  //only change code abow this line
+  //Only change code abow this line
 
   return lastNameLength;
 }

@@ -1,9 +1,9 @@
 function main() {
   //Only change code below this line
   var lastName = "Tesla";
-  var thirdLetterOfLastName = lastName[2];
-  //Only change code abow this line
-  return thirdLetterOfLastName;
+  var lastLetterOfLastName = lastName[lastName.length - 1];
+  //Only change code above this line
+  return lastLetterOfLastName;
 }
 
 console.log(main());
